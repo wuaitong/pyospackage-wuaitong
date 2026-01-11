@@ -10,6 +10,8 @@ If you don't plan to publish to PyPI, you can remove them.*
 
 pyospackage-wuaitong is a project that (describe what it does here).
 
+## TestPyPi https://test.pypi.org/project/pyospackage-wuaitong/0.1.0/
+
 ## Get started
 
 You can install this package into your preferred Python environment using pip:
